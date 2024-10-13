@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Sehat2.0",
+    "desc": " cater to all your health and wellness needs, whether you’re a fitness enthusiast, a curious foodie, or someone looking to lead a healthier lifestyle using java, springboot, mysql",
+    "image": "sehat",
+    "category": "mern",
+    "links": {
+      "view": "http://sehat2-0-10.onrender.com/",
+      "code": "https://github.com/Harshkumarsahu1/SEHAT2.0"
+    }
+  },
+  {
+    "name": "Samadhan Portal",
+    "desc": "City Related issues submission portal built with reactjs, mongodb, express, nodejs",
+    "image": "samadhan",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/",
+      "code": "https://github.com/Harshkumarsahu1/Samadhan-portal"
+    }
+  },
+  {
+    "name": "Samanvay",
+    "desc": "AI-driven mental health platform that provides personalized assessments and guidance, built using technologies like BART (AI model), React, Node.js, and MongoDB.",
+    "image": "samanvay",
+    "category": "mern",
+    "links": {
+      "view": "https://samanvay.vercel.app/",
+      "code": "https://github.com/Harshkumarsahu1/Samanvay"
+    }
+  },
+  {
+    "name": "fusion",
+    "desc": "innovative platform that allows users to create and customize personalized t-shirt designs in a 3D environment using reacjs, openai-api",
+    "image": "fusion",
+    "category": "lamp",
+    "links": {
+      "view": "https://fusion-static.vercel.app/",
+      "code": "https://github.com/Harshkumarsahu1/Fusion"
+    }
+  },
+  {
+    "name": "QuizVimarsh",
+    "desc": " interactive quiz platform built with AngularJS, Spring Boot, Hibernate, and MySQL for educational and competitive quizzes.",
+    "image": "quiz",
+    "category": "mern",
+    "links": {
+      "view": "https://quiz-vimarsh-4iq3.vercel.app/login",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "video confrencing app",
+    "desc": "Real time Video confrencing web built with webrtc,websocket, html,css,js",
+    "image": "image",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code":"https://github.com/Harshkumarsahu1/real-time-video-conferencing-"
+    }
+  },
+ 
+  {
+    "name": "Khojo",
+    "desc": "you will find all roadmaps, imp courses, projects and much more information made using js, html and css",
+    "image": "khojo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://khojo-v2.netlify.app/",
+      "code": "https://github.com/Harshkumarsahu1/course-search-website-"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://harshkportfolio.netlify.app/",
+      "code": "#"
+    }
+  },
+ 
+ 
+  
+ 
+  {
+    "name": "capstone project",
+    "desc": "Startup app building using reactjs, mongodb,expressjs, nodejs",
+    "image": "cap",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Harshkumarsahu1/Capstone_Project"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
